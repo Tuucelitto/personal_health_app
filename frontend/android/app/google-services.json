@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672504296698",
+    "project_id": "fitplan-pro-677a0",
+    "storage_bucket": "fitplan-pro-677a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672504296698:android:d5d947d97ebd69ab4b0543",
+        "android_client_info": {
+          "package_name": "com.example.bitirme_projesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QKE32PXkNLTcXX13hWp5o29Cnqx_dXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

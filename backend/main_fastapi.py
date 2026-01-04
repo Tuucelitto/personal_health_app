@@ -187,7 +187,7 @@ def filter_recipes(target_cal: float, is_vegetarian: bool, is_vegan: bool) -> Li
     final_recipes = df_selected.sort_values(
         by=['cal_diff', 'calories', 'random_sort'],
         ascending=[True, True, True]
-    ).head(5).reset_index(drop=True)
+    ).head(4).reset_index(drop=True)
 
     return final_recipes.drop(columns=['cal_diff', 'random_sort']).to_dict('records')
 
